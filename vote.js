@@ -18,6 +18,7 @@ document.head.innerHTML=
   '.sliderRow{display:flex;align-items:center;gap:10px;margin:8px 0}.votesHeader{display:flex;align-items:baseline;gap:10px;margin-top:18px}'+
   '.playerLabel{font-size:12px;opacity:.75}#playerFilter{font-size:12px;padding:4px}'+
   '#voteTable td:last-child,#voteTable th:last-child{padding-right:18px}.small{font-size:12px;opacity:.8}'+
+  '#chart{max-width:520px;width:100%;height:auto}'+
   '</style>';
 document.body.innerHTML=
   '<div id=pageTitle><h1>🐺 Varulv Rösträknare</h1></div>'+
